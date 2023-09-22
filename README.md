@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @charwsss
-- 👀 I’m interested in Gaming & Coding & i also learn
+- 👀 I’m interested in Gaming & Coding & i also learn C, C#, C++, Vb.
 - 🌱 I’m currently learning Networking
 - 💞️ I’m looking to collaborate on Game devs
 - 📫 How to reach me charlesangelomangmang@gmail.com
